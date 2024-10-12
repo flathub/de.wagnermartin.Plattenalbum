@@ -33,8 +33,8 @@
       "sources": [{
         "type": "git",
         "url": "https://github.com/SoongNoonien/plattenalbum.git",
-        "tag": "v2.2.0",
-        "commit": "5c8572e0532cdebfb039f0ad696a339b892c7fef"
+        "tag": "v2.2.1",
+        "commit": "c7f7ff3a8f6f73ef590ebf142ec96e812d544176"
       }],
       "builddir" : true,
       "buildsystem": "meson"
