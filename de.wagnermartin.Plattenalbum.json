@@ -1,7 +1,7 @@
 {
   "app-id": "de.wagnermartin.Plattenalbum",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "50",
+  "runtime-version": "51",
   "sdk": "org.gnome.Sdk",
   "command": "plattenalbum",
   "finish-args": [
@@ -20,8 +20,8 @@
       "sources": [{
         "type": "git",
         "url": "https://github.com/SoongNoonien/plattenalbum.git",
-        "tag": "v2.7.0",
-        "commit": "00d07adea4db2353b6d0d656e1759b1603bd6642"
+        "tag": "v2.8.0",
+        "commit": "d3f2fc7e943870b1e7156271ad5a6980a2f750a1"
       }],
       "builddir" : true,
       "buildsystem": "meson"
